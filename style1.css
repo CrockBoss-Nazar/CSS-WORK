@@ -1,0 +1,42 @@
+body{
+    background-color: #FFCC6f;
+}
+.block_glówny{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}
+.block_pionowy{
+    width: 25%;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.block_grafick{
+    margin-top: 5%;
+    text-align: center;
+    border-style: dotted;
+    width: 2px;
+    color: #CC6633;
+}
+.opis{
+    height: 30%;
+    background-color: #FFFFCC;
+    margin-top: 1%;
+    padding-top: 2%;
+}
+p{
+    text-align: justify;
+    color: #330000;
+    font-size: 14px;
+    line-height: 1,5em;
+    margin: 4%;
+}
+h2{
+    color: #CC3333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+image{
+    height: 280px;
+    width: 130;
+}
